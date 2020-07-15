@@ -1,5 +1,5 @@
 //OBI (Olimpíada Brasileira de Informática)
-//Questão: "A Idad4 de Dona Mônica"
+//Questão: "A Idade de Dona Mônica"
 //Modalidade: Programação_Fase 1_Nível Junior
 
 /*               A idade de Dona Mônica
